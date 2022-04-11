@@ -4,6 +4,6 @@
 > 0차시 : OT\
 > 1차시 : LED , RGB\
 > 2차시 : CDS, LCD\
-> 3차시 : ULTRA\
+> 3차시 : Ultra\
 > 4차시 : DHT 
 ---------
