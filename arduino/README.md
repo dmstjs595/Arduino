@@ -6,5 +6,7 @@
  2차시 : CDS, LCD\
  3차시 : Ultra, Buzzer\
  4차시 : DHT   
- 5차시 : PM Sensor
+ 5차시 : PM Sensor\
+ 6차시 :  
+ 7차시 : RC
 ---------
