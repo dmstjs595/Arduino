@@ -8,5 +8,6 @@
  4차시 : DHT   
  5차시 : PM Sensor\
  6차시 :  
- 7차시 : RC
+ 7차시 : RC\
+ 8차시 : BLUETOOTH
 ---------
