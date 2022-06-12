@@ -5,3 +5,5 @@ Blooth rc controller 앱을 사용해 rc카를 제어했다.
 방향키를 누르면 시리얼 모니터에 case들이 나왔는데, 이 상황에 맞추어 함수를 만들어 적절한 움직임을 표현할 수 있도록 했다. 
 이 때 대각선 방향으로 갈 때는 enable pin의 값을 다르게 해주어 양 바퀴의 속도에 차이를 두었고 이 상태로 앞, 뒤로 가는 코드를 실행했다. 
 또 배터리는 12v 이므로, 5v가 아닌 12v, 즉 vin과 연결해야한다는 점을 간과해서는 안된다. 
+![20220530_200052](https://user-images.githubusercontent.com/76214070/173239589-61fcdbfc-f752-4055-adeb-806fa07eedd1.jpg)
+![Screenshot_20220613-000627_Bluetooth RC Controller](https://user-images.githubusercontent.com/76214070/173239594-b03d6754-bbc6-4da4-bf1b-15573dc81e24.jpg)
