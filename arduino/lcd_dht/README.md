@@ -5,3 +5,4 @@ SimpleDHT11 dht11(pinDHT11);
 또 온도센서로 온도와 습도의 값을 받아 lcd에 나타내어보았는데, 이 때 (char)0xDF를 써주면 우리가 일상적으로 쓰는 섭씨 기호인 작은 동그라미를 나타낼 수 있었다. 
 이 때 char는 character의 약자로, 0xDF를 문자로 나타내주는 역할이었다.
 
+![3](https://user-images.githubusercontent.com/76214070/173283936-9900277f-afe5-49a6-9c9b-25811724c6c2.PNG)
