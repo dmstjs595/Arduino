@@ -1,3 +1,4 @@
+## RC카
 rc카를 움직이도록 프로그래밍 했다. 
 모터는 총 4개였고, 2개씩 한 쌍으로 움직였다. 
 motor1pinA와 motor1pinB가 한 쌍, motor2pinA와 motor2pinB가 한 쌍이었다. 
