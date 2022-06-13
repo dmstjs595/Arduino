@@ -12,3 +12,4 @@ led와 조도센서, lcd 모두를 융합하기도 했는데, 조도센서로 �
 
 ![20220321_200216](https://user-images.githubusercontent.com/76214070/167424904-ff8a91a5-d0a9-4ae2-96d5-90ec2ae04f1f.jpg)
 
+![1](https://user-images.githubusercontent.com/76214070/173283483-56ff0d8f-915d-411b-bc74-b866e74d49c4.PNG)
