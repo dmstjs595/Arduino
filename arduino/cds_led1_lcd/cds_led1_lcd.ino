@@ -9,9 +9,9 @@ int led1 = 11;
 void setup() {
   lcd.init();
   lcd.init();
-  lcd.backlight();
-  lcd.setCursor(3,0);
-  lcd.print("Hello, world!");
+  lcd.backlight();//백라이트 켜기
+  lcd.setCursor(3,0);//커서 초기화
+  lcd.print("Hello, world!");//프린트
   Serial.begin(9600);
   pinMode(led1, OUTPUT);
 }
@@ -19,7 +19,7 @@ void loop() {
   cdsValue  = analogRead(cds);
  
   Serial.print("sensor = ");
-  Serial.println(cdsValue); 
+  Serial.println(cdsValue); //cds값 출력
   lcd.backlight();
   lcd.setCursor(0,1);
   lcd.print("cds_value = ");
