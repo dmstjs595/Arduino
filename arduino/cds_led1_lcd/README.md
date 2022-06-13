@@ -11,5 +11,4 @@ led와 조도센서, lcd 모두를 융합하기도 했는데, 조도센서로 �
 별개의 입출력 장치라고 생각했던 것들이 같은 보드에 구성되고 각각 입력했던 코드들이 합쳐지며 유기적으로 연결되어 상호작용하는 것을 보며 다시금 이 분야의 확장성에 대해 깨닫게 되었다. 내가 배운것을 적재적소에, 필요할 때 확장시켜나갈 수 있도록 더 열심히 배워나가야겠다. 
 
 ![20220321_200216](https://user-images.githubusercontent.com/76214070/167424904-ff8a91a5-d0a9-4ae2-96d5-90ec2ae04f1f.jpg)
-
-![1](https://user-images.githubusercontent.com/76214070/173283483-56ff0d8f-915d-411b-bc74-b866e74d49c4.PNG)
+![6](https://user-images.githubusercontent.com/76214070/173325273-9fd8321c-ae1e-4dfe-811d-d23eeba9ba1d.PNG)
