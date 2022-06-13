@@ -29,16 +29,16 @@ void loop() {
   if ((err = dht11.read(&temperature, &humidity, NULL)) != SimpleDHTErrSuccess) {
     Serial.print("Read DHT11 failed, err="); Serial.print(SimpleDHTErrCode(err));
     Serial.print(","); Serial.println(SimpleDHTErrDuration(err)); delay(1000);
-    return;
+    return;//에러 발생 시 실행 코드
 }
 
   Serial.print("Sample OK: ");
     lcd.setCursor(1,1);
-  Serial.print((int)temperature); Serial.print(" *C, ");
-   lcd.print((int)temperature);   lcd.print((char)0xDF);
+  Serial.print((int)temperature); Serial.print(" *C, ");//섭씨 온도로 온도 출력
+   lcd.print((int)temperature);   lcd.print((char)0xDF);//화씨 온도로 온도 출력
 
     lcd.setCursor(7,1); 
   Serial.print((int)humidity); Serial.println(" H");
- lcd.print((int)humidity);   lcd.print("H");
+ lcd.print((int)humidity);   lcd.print("H");//습도 
   delay(1500);
 }
