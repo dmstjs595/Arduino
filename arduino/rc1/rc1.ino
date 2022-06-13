@@ -7,9 +7,9 @@ int enable2Pin=  10 ;
 
   void setup() {
      pinMode(motor1PinA, OUTPUT);     
-     pinMode(motor1PinB, OUTPUT);//왼쪽
+     pinMode(motor1PinB, OUTPUT);//왼쪽 바퀴에 대해 
      pinMode(motor2PinA, OUTPUT);     
-     pinMode(motor2PinB, OUTPUT);//오른쪽
+     pinMode(motor2PinB, OUTPUT);//오른쪽 바퀴에 
      pinMode(enablelPin, OUTPUT);
      analogWrite(enablelPin, 100);
           analogWrite(enable2Pin, 100);//모터속도를 정해준다
