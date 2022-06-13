@@ -4,3 +4,5 @@ rc카에 led를 2개 달아 좌측으로 갈 때는 왼쪽 led, 우측으로 갈
 하지만 왜 움직이지 않았는지, 그 이유는 아직도 오리무중이다. 
 그 문제가 해결되고 나니 led를 연결하는 것은 금방 할 수 있었다. 
 하지만 led에 전선을 직접 연결하려 하다보니 연결이 헐거워 그 상태를 유지하는 것이 어려웠다. 
+![20220613_200809](https://user-images.githubusercontent.com/76214070/173357810-76836c87-6629-4311-951d-aee7afd6758d.jpg)
+![image](https://user-images.githubusercontent.com/76214070/173357749-2b6e97e7-ad22-4595-a0c6-96248c1488ae.png)
