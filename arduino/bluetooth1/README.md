@@ -9,4 +9,4 @@ Blooth rc controller 앱을 사용해 rc카를 제어했다.
 또 배터리는 12v 이므로, 5v가 아닌 12v, 즉 vin과 연결해야한다는 점을 간과해서는 안된다. 
 ![20220530_200052](https://user-images.githubusercontent.com/76214070/173239589-61fcdbfc-f752-4055-adeb-806fa07eedd1.jpg)
 ![Screenshot_20220613-000627_Bluetooth RC Controller](https://user-images.githubusercontent.com/76214070/173239594-b03d6754-bbc6-4da4-bf1b-15573dc81e24.jpg)
-![2](https://user-images.githubusercontent.com/76214070/173283574-67b29dfe-6f45-4d53-9214-2d9db6a8bfac.png)
+![image](https://user-images.githubusercontent.com/76214070/173355782-7ad14050-7146-4cbc-b410-25f0a7270339.png)
