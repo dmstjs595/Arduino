@@ -12,3 +12,4 @@ eco pin 과 trig pin이 있었는데, 소수점까지 표현하는 아날로그 
 또 마지막으로 초음파 센서와 led, 피에조 부조와 융합하는 것 까지 해보았다. 초음파센서의 값이 정확히 측정이 안 되긴 했지만 가끔 garbage 값이 나올 때마다 코딩해놓은 대로 led에 빛이 들어오고 부저에서 소리가 난 것으로 보아 코딩은 성공적이었던 듯 하다.
 
 ![20220411_192003](https://user-images.githubusercontent.com/76214070/167424003-aeb73856-11ac-402c-a45c-434ccbf83222.jpg)
+![3](https://user-images.githubusercontent.com/76214070/173320535-623066a1-b5e9-4d36-bac2-fc5e4aabcb67.PNG)
