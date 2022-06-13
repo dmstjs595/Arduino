@@ -35,7 +35,7 @@ char in;
           }
     
     switch(in){
-               case 'F':Forward(); break;
+               case 'F':Forward(); break; //각 버튼에 맞는 행동 함수 
                case 'R': Right(); break; 
                case 'S': Stop(); break;
                case 'L': Left(); break;
